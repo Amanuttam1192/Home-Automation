@@ -9,7 +9,7 @@ Components:
 • Wires
 • Jump wires
 
-Discription of the project
+Discription of the project:
 A simple relay project working on the programming of Arduino
 processing unit,that can control the flow of ac current through a 
 Bluetooth enabled device.
