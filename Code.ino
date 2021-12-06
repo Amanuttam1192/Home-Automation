@@ -1,4 +1,5 @@
 String inputs;
+//Connect the following pins to relay as shown in comments.
 #define relay1 2 //Connect relay1 to pin 9
 #define relay2 3 //Connect relay2 to pin 8
 #define relay3 4 //Connect relay3 to pin 7
@@ -36,7 +37,7 @@ char c = Serial.read(); //Conduct a serial read
 if (c == '#'){
 break; //Stop the loop once # is detected after a word
 }
-inputs += c; //Means inputs = inputs + c
+inputs += c; //Means inputs = inputs + c,if nrrded get the regulations.
 }
 if (inputs.length() >0)
 {
