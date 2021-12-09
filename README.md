@@ -12,6 +12,6 @@ Components:
 Discription of the project:
 A simple relay project working on the programming of Arduino
 processing unit,that can control the flow of ac current through a 
-Bluetooth enabled device.
+bluetooth enabled device.
 Here we are using a 4 channel relay so that we can control a 
 maximum of 4 ac appliances at a point of time.
