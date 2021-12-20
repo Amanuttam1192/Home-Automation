@@ -1,5 +1,5 @@
 String inputs;
-//Connect the following pins to relay as shown in comments.
+//Connect the following pins
 #define relay1 2 //Connect relay1 to pin 9
 #define relay2 3 //Connect relay2 to pin 8
 #define relay3 4 //Connect relay3 to pin 7
